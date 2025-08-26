@@ -1,3 +1,13 @@
+> [!IMPORTANT]
+> **Please Cite the Paper**
+> This repository contains a dataset that corresponds to the following paper.  
+> If you use this dataset for research, industrial, or educational purposes, please cite the paper below:
+>
+> – IEEE Xplore: https://ieeexplore.ieee.org/abstract/document/10874567/
+>
+> Thank you for respecting the authors’ rights.
+
+
 # HuGPT-CS-Abstracts
 a labeled, topic-balanced dataset of computer-science abstracts (human/ChatGPT) for textual deepfake detection and NLP research.
 
